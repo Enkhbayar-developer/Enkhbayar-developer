@@ -1,7 +1,7 @@
 ## Hi👋, I'm Enkhbayar
 
 # 💫 About Me:
-![Clutch the console errors too 🤣]((https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZtdXF5MmFlYjB6MzdzNnFrN25lZ3h4bXptZHJrZmR1ZmVnNWpnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJ8RILW86N1Fte/giphy.gif))<br>
+![Clutch the console errors too 🤣](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZtdXF5MmFlYjB6MzdzNnFrN25lZ3h4bXptZHJrZmR1ZmVnNWpnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJ8RILW86N1Fte/giphy.gif)<br>
 👨‍💻19yo Front-end Developer who likes to try new things<br>📚High school at Golomt Complex School, Mongolia Ulaanbaatar city<br>👨‍🎓Studied Full-stack Development at M Smart Academy, Mongolia Ulaanbaatar city<br>📈Started my career this year 2025<br>🌐Currently working on my personal projects
 
 
