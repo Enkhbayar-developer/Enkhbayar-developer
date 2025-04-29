@@ -1,7 +1,7 @@
 ## Hi👋, I'm Enkhbayar
 
 # 💫 About Me:
-👨‍💻19yo Front-end Developer who likes to try new things<br>👨‍🎓Studied Full-stack Development at M Smart Academy, Mongolia<br>📈Started my career this year 2025<br>🌐Currently working on my personal projects
+👨‍💻19yo Front-end Developer who likes to try new things<br>📚High school at Golomt Complex School, Mongolia Ulaanbaatar city<br>👨‍🎓Studied Full-stack Development at M Smart Academy, Mongolia Ulaanbaatar city<br>📈Started my career this year 2025<br>🌐Currently working on my personal projects
 
 
 ## 🌐 Socials:
