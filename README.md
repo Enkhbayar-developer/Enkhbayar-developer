@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻20 years old web developer<br>📚High school at Golomt Complex School, Mongolia Ulaanbaatar city<br>👨‍🎓Studied Full-stack Development at M Smart Academy<br>📈Started my career this year 2025<br>🌐Currently searching for a internship
+👨‍💻20 years old web developer<br>👨‍🎓Studied Full-stack Development at M Smart Academy<br>📈Started my career this year 2025<br>
 
 
 ## 🌐 Socials:
