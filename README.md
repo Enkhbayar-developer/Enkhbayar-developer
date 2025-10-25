@@ -18,7 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=Enkhbayar-developer&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhreTM1Y3A5eGhmODI4dXZiMWc2czFteGQ1MWowa2V5aHNlNnNqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yLTXaltlhwI9i0S3DX/giphy.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3B2Y3ZmNzd2Nzh0bm8zN3QwN25zcmF2NjBtaGsxeWlwM3ozNGJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IvoysZG4Zn5a4cWBZA/giphy.gif"  />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
