@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hello!<br>
 👨‍💻20 years old web developer<br>👨‍🎓Studied Full-stack Development at M Smart Academy<br>📈Started my career this year 2025<br>
 
 
