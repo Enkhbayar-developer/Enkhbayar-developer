@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻20 years old web developer<br>👨‍🎓Studied Full-stack Development at Ehlel Academy<br>📈Started my career in 2025<br>
+👨‍💻20 years old web developer<br>👨‍🎓Studied Full-stack Development at Ehlel Academy<br>📈Looking for a job opportunity<br>
 
 
 ## 🌐 Socials:
